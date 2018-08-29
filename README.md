@@ -12,7 +12,7 @@ So, if you have a value that fits in 2 Bytes "Byte 0" and "Byte 1", the question
 
 For example, if you have 1234, its Binary:
 
-0b 11010010 00000100 in Little Endian
+0b 00000100 11010010 in Little Endian
 
 0b 11010010 00000100 in Big Endian
 
